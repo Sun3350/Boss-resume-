@@ -1,0 +1,22 @@
+{
+  "name": "ayocodesiteresume",
+  "version": "1.0.0",
+  "description": "resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sun3350/Boss-resume-.git"
+  },
+  "keywords": [
+    "0"
+  ],
+  "author": "ayocodesite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sun3350/Boss-resume-/issues"
+  },
+  "homepage": "https://github.com/Sun3350/Boss-resume-#readme"
+}
